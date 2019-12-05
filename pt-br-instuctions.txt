@@ -1,0 +1,6 @@
+Follow normal docs until asked to upload zip.
+use https://github.com/andrewstech/youtube-for-alexa/blob/master/lamba_new-support.zip Instead
+
+when asked to use json editor use the code at https://raw.githubusercontent.com/andrewstech/youtube-for-alexa/master/InteractionModel_pt-br.json
+
+instead. all should then be working :)
